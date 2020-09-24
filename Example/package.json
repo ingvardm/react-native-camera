@@ -8,7 +8,7 @@
     "clear": "node node_modules/react-native/local-cli/cli.js start --reset-cache"
   },
   "dependencies": {
-    "react": "16.0.0",
+    "react": "16.5.0",
     "react-native": "0.51.0",
     "react-native-camera": "file:../"
   },
